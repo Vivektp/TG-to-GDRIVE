@@ -12,7 +12,7 @@ Here Is Live Version Of Bot  [Gdriveupme_bot](http://telegram.dog/gdriveupme_bot
 
  `Make sure You have Changed Your Bot Token and google client api Before Hosting It`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/prgofficial/TG-to-GDRIVE)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Vivektp/TG-to-GDRIVE)
 
 
 # Update (30 May 2020)
